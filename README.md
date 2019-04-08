@@ -1,7 +1,7 @@
 DWD Week 1
 
 
-Par1 1:
+Part 1:
 
 
 
