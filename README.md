@@ -24,3 +24,7 @@ c. Write a command-line JavaScript program that reads a plain text file and gene
 
 https://github.com/sszpz/DWDtestClass/blob/master/DWDclass1/3.js
 
+
+DWD Week 3:
+
+https://github.com/sszpz/DWD-WEEK3
