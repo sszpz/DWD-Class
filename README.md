@@ -31,4 +31,4 @@ https://github.com/sszpz/DWD-WEEK3
 
 DWD Final:
 
-https://github.com/sszpz/DWD-Class-DWD-Fina
+https://github.com/sszpz/DWD-Class-DWD-Final
